@@ -1,6 +1,8 @@
 # January 2021 E-commerce Insights from Google Analytics 4
 
-This repository contains the SQL script used to extract e-commerce data from the public dataset `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events`, as well as the Tableau dashboard created to visualize the data.
+This repository includes the SQL script used to extract e-commerce data from the public dataset [`bigquery-public-data.ga4_obfuscated_sample_ecommerce.events`](https://console.cloud.google.com/marketplace/product/bigquery-public/ga4-obfuscated-sample-ecommerce), as well as the Tableau dashboard designed to visualize this data.
+
+
 
 ## Project Overview
 
