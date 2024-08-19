@@ -8,8 +8,8 @@ The project analyzes e-commerce data from January 2021, providing insights into 
 
 ## Files in This Repository
 
-- **SQL Script:**
-  - `data_extraction.sql`: The SQL script used to query the Google Analytics 4 data for January 2021.
+- ## SQL Script
+The SQL script used to extract the data can be found in the file [data_extraction.sql](data_extraction.sql).
   
 - **Dashboard Link:**
   - The Tableau dashboard can be accessed on Tableau Public: [Dashboard Link](https://public.tableau.com/app/profile/lesia.kremsenko/viz/GA_4_Januar_2021/Dashboard1).
